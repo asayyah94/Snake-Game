@@ -11,3 +11,6 @@ Then run the program using the following command:
 ```
 ./snake
 ```
+Here is a screenshot of the game:
+
+![Screenshot](screenshot.png)
